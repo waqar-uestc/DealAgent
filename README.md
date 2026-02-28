@@ -5,4 +5,4 @@ Artificial intelligence has significantly transformed online shopping through co
 
 ---
 
-### We are preparing code segments to upload, will be available soon
+We are preparing code segments to upload, will be available soon
