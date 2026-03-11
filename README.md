@@ -3,7 +3,9 @@
 
 Artificial intelligence has significantly transformed online shopping through conversational assistants and personalized recommendation systems. Existing approaches primarily provide interaction support while relying on users for decision making and task execution, limiting autonomy in dynamic consumer environments. This paper presents \textit{DealAgent}, a trustworthy agentic AI framework for end-to-end shopping that emphasizes human-centric interaction and adaptive decision support in consumer electronics ecosystems. We formulate autonomous shopping as a constrained sequential decision-making problem and propose a layered architecture that integrates semantic task understanding, hybrid autonomous planning, multi-attribute deal optimization, dynamic preference learning, and secure execution governance. An **initial version of deal agent** is available here with a local AI-powered web app that fetches deals from RSS feeds and analyzes them using LLM evaluation, price prediction, and RAG Q&A.
 
-![Layered architecture of DealAgent consisting of a deal understanding layer for semantic task interpretation and a discovery, control, and execution layer for autonomous planning, deal optimization, and constraint-aware transaction execution with feedback-driven preference adaptation and governance.](images/Deal_Understanding.png)
+(images/Deal_Understanding.png)
+
+Layered architecture of DealAgent consisting of a deal understanding layer for semantic task interpretation and a discovery, control, and execution layer for autonomous planning, deal optimization, and constraint-aware transaction execution with feedback-driven preference adaptation and governance.
 
 ---
 
