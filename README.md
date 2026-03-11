@@ -6,7 +6,7 @@ Artificial intelligence has significantly transformed online shopping through co
 <p align="center">
   <img src="images/Deal_Understanding.png" width="650"/>
   <br/>
-  <span style="display:inline-block; width:650px;"><em>Layered architecture of DealAgent consisting of a deal understanding layer for semantic task interpretation and a discovery, control, and execution layer for autonomous planning, deal optimization, and constraint-aware transaction execution with feedback-driven preference adaptation and governance.</em></span>
+  <span style="display:inline-block; width:600px;"><em>Layered architecture of DealAgent consisting of a deal understanding layer for semantic task interpretation and a discovery, control, and execution layer for autonomous planning, deal optimization, and constraint-aware transaction execution with feedback-driven preference adaptation and governance.</em></span>
 </p>
 
 ---
