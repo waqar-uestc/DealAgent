@@ -34,4 +34,4 @@ Artificial intelligence has significantly transformed online shopping through co
 - **Stop**: Run `stop.bat`
 
 
-We are preparing additional code segments to upload, will be available soon
+***We** are preparing additional code segments to upload, will be available soon
